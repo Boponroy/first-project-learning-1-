@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightskyblue;
+}
+
+.text-one {
+    margin: auto;
+    margin-top: 70px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    overflow: hidden;
+    font-size: 19px;
+}
+
+.h1one {
+    margin: 0;
+    color: white;
+    letter-spacing: 8px;
+}
+
+.text-two {
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    overflow: hidden;
+    font-size: 6px;
+    text-shadow: 2px;
+}
+
+.h1two {
+    margin: 0;
+    color: white;
+    letter-spacing: 5px;
+}
+
+.box-starter {
+    height: 550px;
+    width: 350px;
+    background-color: white;
+    margin: auto;
+    margin-top: 65px;
+    float: left;
+    overflow: hidden;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+}
+
+.starter {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 8px;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: lightskyblue;
+
+}
+
+.nine {
+    margin: auto;
+}
+
+.nine-text {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    margin: 0;
+    color: lightskyblue;
+}
+
+.hr {
+    margin-top: 20px;
+    color: lightskyblue;
+}
+
+.starteruldiv {
+    margin-top: 50px;
+}
+
+.starterul {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(47, 151, 185);
+}
+
+.starterli {
+    margin: 30px;
+}
+
+.starterbtn {
+    text-align: center;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: lightskyblue;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 8px;
+    font: 26;
+    padding: 10px 30px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+
+.threestack {
+    margin: auto;
+    width: 1250px;
+    height: 10px;
+}
